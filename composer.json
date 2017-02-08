@@ -8,7 +8,7 @@
   "type": "yii2-extension",
   "authors": [
     {
-      "name": "",
+      "name": "MoneyAdmin",
     }
   ],
   "require": {
