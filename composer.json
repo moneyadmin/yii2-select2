@@ -1,5 +1,5 @@
 {
-  "name": "yii-cms/yii2-select2",
+  "name": "moneyadmin/yii2-select2",
   "description": "Select2 widget for Yii2 framework.",
   "keywords": [
     "yii2",
@@ -8,13 +8,12 @@
   "type": "yii2-extension",
   "authors": [
     {
-      "name": "Гонимар Сергей",
-      "email": "sergey.gonimar@gmail.com"
+      "name": "",
     }
   ],
   "require": {
     "yiisoft/yii2": ">=2.0",
-    "bower-asset/select2": ">=4.0.1"
+    "bower-asset/select2": "4.*"
   },
   "autoload": {
     "psr-4": {"yiicms\\widgets\\": ""}
