@@ -1,5 +1,5 @@
 {
-  "name": "moneyadmin/yii2-select2",
+  "name": "moneyadmin/yii2select2",
   "description": "Select2 widget for Yii2 framework.",
   "keywords": [
     "yii2",
@@ -17,10 +17,5 @@
   },
   "autoload": {
     "psr-4": {"moneyadmin\\widgets\\": ""}
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0.x-dev"
-    }
   }
 }
