@@ -16,7 +16,7 @@
     "bower-asset/select2": "4.*"
   },
   "autoload": {
-    "psr-4": {"yiicms\\widgets\\": ""}
+    "psr-4": {"moneyadmin\\widgets\\": ""}
   },
   "extra": {
     "branch-alias": {
